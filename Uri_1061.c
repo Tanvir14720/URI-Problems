@@ -22,6 +22,6 @@ int main()
     printf("%d dia(s)\n", d);
     printf("%d hora(s)\n", hr);
     printf("%d minuto(s)\n", m);
-    printf("%d segundo(s)", s);
+    printf("%d segundo(s)\n", s);
     return 0;
 }
